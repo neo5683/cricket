@@ -1,0 +1,102 @@
+
+body{
+margin: 0 !important;
+padding: 0 !important;
+font-family: 'Montserrat', serif;
+}
+/* Navbar Css */
+.nav-bar{
+  background-color: #B8FFF9;
+  font-weight: bold;
+
+  }
+  .nav-position{
+    position: absolute;
+  }
+.img-margin{
+  margin-bottom: 14px;
+  margin-right: 5px;
+}
+.top-heading{
+  font-family: 'Montserrat', serif;
+  color: #151D3B;
+}
+.a-style{
+  color:#39AEA9;
+  font-family: 'Montserrat', serif;
+  text-decoration: none;
+}
+.a-style:hover {
+  color: #F900BF;
+
+/* Feature Box Css */
+}
+.features{
+  padding: 60px 30px 20px 30px;
+
+}
+.feature-box{
+  padding: 5%;
+}
+.feature-box h2{
+  font-weight: bold;
+
+}
+.feature-box i:hover{
+ color: #F6416C;
+}
+.p{
+  color: #8f8f8f;
+  }
+  .p1{
+    text-align: justify;
+  }
+/* tABLE */
+.table{
+  margin: 5% 7%;
+}
+
+
+.form-signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 5px;
+  margin: 6% auto 5%;
+  font-family: 'Montserrat', serif;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.pragraph{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#row {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 20px auto 80px;
+}
+
+.font {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
